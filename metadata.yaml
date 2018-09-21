@@ -1,0 +1,22 @@
+_repo: Camp-Lenape-on-the-Long-Trail_54630
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Saxon, Carl
+    gutenberg_agent_id: '46456'
+    url: http://www.gutenberg.org/2009/agents/46456
+description: ''
+gutenberg_issued: '2017-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54630'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Camps -- Juvenile fiction'
+- GITenberg
+title: Camp Lenape on the Long Trail
+url: http://www.gutenberg.org/ebooks/54630
