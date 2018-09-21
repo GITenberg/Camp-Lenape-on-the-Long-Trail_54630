@@ -1,11 +1,16 @@
 _repo: Camp-Lenape-on-the-Long-Trail_54630
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54630-h/images/cover.jpg
 creator:
   author:
     agent_name: Saxon, Carl
     gutenberg_agent_id: '46456'
     url: http://www.gutenberg.org/2009/agents/46456
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54630#Camp-Lenape-on-the-Long-Trail
 gutenberg_issued: '2017-04-29'
 gutenberg_type: Text
 identifiers:
